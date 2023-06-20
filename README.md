@@ -1,1 +1,2 @@
-# ChatGPT_API_Prompt_Engineering_for_Developers
+# ChatGPT API Prompt Engineering for Developers
+Learning to use the API of ChatGPT
